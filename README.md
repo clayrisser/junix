@@ -22,6 +22,7 @@ git clone https://github.com/codejamninja/junix
 
 ## Dependencies
 
+* [Nasm](https://www.nasm.us)
 * [Qemu](https://www.qemu.org)
 * [GNU Make](https://www.gnu.org/software/make)
 
