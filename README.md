@@ -9,8 +9,8 @@ Please ★ this repo if you found it useful ★ ★ ★
 
 ## Features
 
-* So far only built with binary code
-* Boots into infinite loop
+* So far only built with assembly
+* Right now, only boots into infinite loop
 
 
 ## Installation
